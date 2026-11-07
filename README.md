@@ -240,4 +240,4 @@ This repository serves as the official landing page for VoipWise. The software i
 **Get the most recent version of VoipWise today!**
 
 ---
-**Last updated:** 2026-11-07 14:26:35 UTC
+**Last updated:** 2026-11-07 19:06:58 UTC
